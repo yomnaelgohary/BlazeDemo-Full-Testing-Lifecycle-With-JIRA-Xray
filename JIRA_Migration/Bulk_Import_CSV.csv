@@ -1,0 +1,7 @@
+﻿Parent Requirement Key;Parent Requirement Summary;Requirement Key;Requirement Summary;Requirement Status;Test Key;Test Summary;Test Status;Test Execution Key;TestRun Status;Test Environments;Executed By;Version;Revision;Started On;Finished On;Defect Keys
+;;DEM-10;Login with username & password;NOK;DEM-2;Login is OK ;PASSED;DEM-13;PASSED;;Yomna Khaled Elgohary;;;2025-08-08T16:44:02.841Z;2025-08-08T16:44:02.841Z;
+;;DEM-10;Login with username & password;NOK;DEM-4; Login Fail- Incorrect Username;FAILED;DEM-14;FAILED;;Yomna Khaled Elgohary;;;2025-08-08T16:45:45.146Z;2025-08-08T16:45:45.146Z;DEM-15
+;;DEM-10;Login with username & password;NOK;DEM-5;Login Fail - Incorrect Password;TO DO;;;;;;;;;
+;;DEM-10;Login with username & password;NOK;DEM-6;Login Fail - Incorrect Password & Username;TO DO;;;;;;;;;
+;;DEM-9;View products in cart;NOTRUN;DEM-12;View products in cart;TO DO;;;;;;;;;
+;;DEM-8;Add a product to my cart;NOK;DEM-11;Add product to cart;FAILED;DEM-16;FAILED;;Yomna Khaled Elgohary;;;2025-08-08T16:53:04.772Z;2025-08-08T16:53:04.772Z;DEM-17
